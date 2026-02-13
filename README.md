@@ -12,16 +12,4 @@
 - Enjoy CTF reverse engineering and real-world binary challenges.
 
 
-## GitHub stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=r0ss0n3r1xD4t&show_icons=true&theme=radical&cache_seconds=21600"
-    alt="r0ss0n3r1xD4t GitHub stats"
-  />
-  <br />
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=r0ss0n3r1xD4t&layout=compact&theme=radical&cache_seconds=21600"
-    alt="Top Languages"
-  />
-</p>
