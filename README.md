@@ -9,7 +9,7 @@
 ## What I do
 - Reverse engineering
 - Cryptography player
-- Enjoy CTF reverse engineering and real-world binary challenges.
+- Enjoy CTF reverse engineering and memory forensics
 
 
 
