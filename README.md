@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=64&duration=2000&pause=1000&center=true&vCenter=true&width=1080&height=70&lines=I%27m+r0ss0n3r1xD4t;Cryptography+player)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=64&duration=2000&pause=1000&center=true&vCenter=true&width=1080&height=70&lines=I%27m+r0ss0n3r1xD4t;Forensics+player)]()
 
 <div align="center">
   <a href="mailto:datxmilanista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>&nbsp;
