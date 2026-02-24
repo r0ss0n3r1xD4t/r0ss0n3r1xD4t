@@ -8,7 +8,7 @@
 
 ## What I do
 - Reverse engineering
-- Cryptography player
+- Forensics player
 - Enjoy CTF reverse engineering and memory forensics
 
 
